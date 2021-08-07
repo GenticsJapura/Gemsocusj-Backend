@@ -1,0 +1,15 @@
+//Live Environment
+API_KEY=AIzaSyDTJD1OgvuAGZ6-N2PZzAnq3Xb0PHSUN4c
+AUTH_DOMAIN=gemsoc-usj.firebaseapp.com
+PROJECT_ID=gemsoc-usj
+STORAGE_BUCKET=gemsoc-usj.appspot.com
+MESSAGING_SENDER_ID=556490103953
+APP_ID=1:556490103953:web:6644ec519ccc5d790bf330
+
+//Dev Environment
+API_KEY=AIzaSyAHG-WvkyU7eGp2i5pHGl0h8FrDZJ4Gcf0
+AUTH_DOMAIN=gemsoctest.firebaseapp.com
+PROJECT_ID=gemsoctest
+STORAGE_BUCKET=gemsoctest.appspot.com
+MESSAGING_SENDER_ID=166360701269
+APP_ID=1:166360701269:web:6342c3e19ca276f9f6b7dc

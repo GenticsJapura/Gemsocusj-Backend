@@ -12,6 +12,7 @@ const addProduct = async (req, res) => {
 
     const data = {
       title,
+      description,
       price,
       image,
       dataInsertedDate,
@@ -38,6 +39,7 @@ const getAllProducts = async (req, res, next) => {
         const product = new Product(
           doc.id,
           doc.data().title,
+          doc.data().description,
           doc.data().price,
           doc.data().image
         );
