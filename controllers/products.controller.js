@@ -8,7 +8,7 @@ const firestore = firebase.firestore();
 const addProduct = async (req, res) => {
   const dataInsertedDate = new Date();
   try {
-    const { title, price, image } = req.body;
+    const { title, description, price, image } = req.body;
 
     const data = {
       title,
